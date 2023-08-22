@@ -1,5 +1,5 @@
 # JST-converter
-JST 4pin to 4pin header converter as well as JST 4 pin to IBT2 (BTS 7690 Driver) pin conversion PCB File. It is Done in Eagle Software. 
+JST 4pin to 4pin header converter as well as JST 4 pin to IBT2 (BTS 7690 Driver) pin conversion PCB File. It is Done in Autodesk Eagle Software. 
 
 
 ![image](https://github.com/Mainul-Islam-07/JST-converter/assets/78782260/3fb4fad9-c331-421e-bafd-ae3fdfdd0dc3)
